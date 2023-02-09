@@ -1,4 +1,4 @@
-## Homework Template
+## Homework
 
-This contains the .devcontainer files for Codespaces and the .github files for 
-Classroom. 
+We continue geting comfortable with theorem proving in Lean by considering 
+equivalence relations and equivalence classes. 
